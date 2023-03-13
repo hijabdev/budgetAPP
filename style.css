@@ -1,0 +1,237 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box ;
+font-family: cursive;
+}
+body{
+    background-image: url(xBudget_ordi.jpg.pagespeed.ic.jhQxdUIFqk.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 90px;
+    height: 150px;
+}
+
+
+.box{
+    position: relative;
+    left: 850px;
+    top: 130px;
+   
+}
+
+#li{
+    background-color:#02B290;
+    
+}
+.li{
+    background-color: #E21717;
+}
+
+h3{
+    font-size: large;
+    color: white;
+    top: 40px;
+    right: -250px;
+    position:relative;
+    /* background: #E03B8B; */
+    
+    
+}
+
+h5{
+    
+    font-size: large;
+    color: white;
+    top: -115px;
+    right:-250px;
+    position:relative;
+    /* background: #E07C24; */
+    
+}
+
+li{
+    width:   350px;
+    padding: 15px;
+    background-position: top=5px;
+    list-style: none;
+    /* margin-bottom:19px; */
+    cursor: pointer;
+    
+}
+ h2{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: Verdana, sans-serif;
+    padding-top: 20px;
+    padding-right: 15px;
+      
+ }
+ .select{
+    padding: 8px,12px;
+    background-color:#ffff ;
+    border: 1px; 
+    cursor: pointer;
+    
+ }
+ textarea{
+    font-size: 3,5 em;
+    height: 50px; 
+    width: 400px; 
+    font-size: 18px;
+    
+ }
+ .rows{
+    
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 10px;
+     right: -300px;
+    justify-content: space-between;
+    border-bottom:  1px solid;
+    color: #CAD5E2;
+    width: 400px;
+    cursor: pointer;
+    padding-bottom: 20px; 
+    top:-140px ;
+    /* background: #383CC1; */
+    
+    
+
+ }
+.row{
+    
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -95px;
+    left: 339px;
+    justify-content: space-between;
+    
+      border-bottom:  1px solid;
+    color: #CAD5E2;
+    width: 300px;
+    cursor: pointer;
+   padding-bottom: 20px; 
+   /* background: #E21717; */
+       
+}
+
+.title_depense{
+    color: black;
+ }
+ .montant_depense{
+    color: #1C8D73;
+ }
+.list_revenue{
+    color: #E21717;
+
+}
+ .formBox{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 215px;
+    left: 800px;
+    
+
+}
+ .item-container{
+    margin-top: 80px;
+    
+
+ }
+
+input{
+    font-size: smaller;
+    height: 50px;
+    width: 90px;
+    position: absolute; 
+    font-size: 18px;
+    
+}
+  select {
+    height: 50px;
+    width: 50px;
+     position: absolute; 
+    right: 100px; 
+    font-size: 17px;
+}
+.item-container{
+    display: flex;
+    justify-content:space-between ;
+    position: relative;
+    top: 150px;
+
+    
+}
+h2{
+   margin-left: 200px;
+   position: relative; 
+   left: 80px;
+   color: #E21717;
+   
+}
+.DEPENSES{
+   color:#1C8D73;
+   position: relative;  
+   left: 100px;
+    top: -150px;
+    /* background-color: #E8BD0D; */
+   
+}
+
+.expense{
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 20px;
+   font-family: Verdana, sans-serif;
+   padding-top: 20px;
+   padding-right: 15px;
+   position: relative;
+   left: 440px;
+   border-bottom: 1px;
+   top: -150px;
+   /* background: #8D3DAF; */
+   
+   
+}  
+.container{
+    position: relative;
+    top: -309px;
+    right: -850px;
+    color: white;
+    margin: 19px;
+    text-align: justify;
+    font-size: 17px;
+    
+    
+}
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
